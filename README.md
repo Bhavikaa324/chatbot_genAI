@@ -17,3 +17,4 @@ conda activate base
 ```bash
 pip install -r requirements.txt
 ```
+add .env file for api key generated from groq
